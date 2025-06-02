@@ -19,10 +19,10 @@
 
 <div align="center">
   <h3>Aplicação na AWS gerado pelo Ansible</h3>
-  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/SSH%2C%20Git%20e%20Servidor/archives/ServidorRodandoHtmlAWS.png">
+  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/Terraform%20e%20Ansible/archives/resultadoDaPagGeradaPeloAnsible.png">
 </div>
 
 <div align="center">
   <h3>Execução do Ansible</h3>
-  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/SSH%2C%20Git%20e%20Servidor/archives/ServidorRodandoHtmlAWS.png">
+  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/Terraform%20e%20Ansible/archives/executandoAnsible.png">
 </div>
