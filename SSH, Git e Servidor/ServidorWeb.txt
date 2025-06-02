@@ -1,0 +1,5 @@
+Nesta aula, acessamos uma máquina Ubuntu criada com Terraform via SSH e criar um arquivo HTML simples. O processo começou com o acesso à máquina usando um comando SSH. Em seguida, foi utilizado o comando echo para criar um arquivo chamado index.html, que continha a tag <h1> com o texto "Olá, Mundo".
+
+Após a criação do arquivo, foi demonstrado como visualizar o conteúdo da página utilizando o servidor HTTP da BusyBox. Para isso, foi necessário iniciar o servidor com o comando busybox httpd -f -p 8080. Para garantir que o servidor continuasse ativo mesmo após o fechamento da conexão SSH, foi utilizado o comando nohup junto com o símbolo &.
+
+Por fim, foi explicado como acessar a página criada no navegador, utilizando o endereço IPv4 público da instância e a porta 8080. A aula concluiu destacando a importância do versionamento de aplicações com Git, preparando o terreno para projetos mais complexos no futuro.
