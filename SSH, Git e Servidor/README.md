@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>Aplicação na AWS (Endereço IPv4 público)</h3>
-  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/IaC/archives/Ferramentas.png">
+  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/SSH%2C%20Git%20e%20Servidor/archives/ServidorRodandoHtmlAWS.png">
 </div>
 
 <div align="left">
