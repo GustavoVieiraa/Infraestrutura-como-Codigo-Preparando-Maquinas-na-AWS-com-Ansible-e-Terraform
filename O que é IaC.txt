@@ -1,0 +1,30 @@
+O que é IaC?
+
+Escrever e executar um código para:
+
+-> Definir
+-> Implantar
+-> Atualizar
+-> Gerenciar
+
+É o total controle do ambiente (Infraesturtura) com código.
+
+Quais ferramentas podemos utilizar para esse processo?
+
+-> Terraform
+-> Ansible
+-> Crossplane
+-> CHEF
+-> Kubernetes
+-> puppet
+
+Para começarmos esse processo, podemos começar utilizando o Terraform, com esse fluxo:
+
+Configuração do Terraform -> Terraform -> Cloud (AWS, Azure, GCP)
+
+E quais são os benefícios de usar IaC?
+
+-> Deploy automatizado
+-> Controle de Versão
+-> Velocidade e Segurança
+-> Reuso
