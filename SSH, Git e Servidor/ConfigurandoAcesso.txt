@@ -1,0 +1,5 @@
+Na aula, aprendemos a acessar uma instância criada na AWS utilizando o Terraform. O primeiro passo foi a criação de um par de chaves, essencial para garantir a segurança no acesso via SSH. Para isso, navegamos até a seção "Pares de Chaves" no console da AWS, onde criamos um par de chaves chamado iac-alura, no formato .pem.
+
+Após a criação do par de chaves, foi necessário associá-lo à instância que estávamos criando. Para isso, modificamos o arquivo main.tf, adicionando a tag key_name com o nome do par de chaves. Em seguida, executamos o comando terraform apply, que destruiu a instância anterior e criou uma nova com a configuração correta.
+
+Por fim, aprendemos os passos para conectar à instância via SSH, incluindo a execução do comando chmod 400 para garantir a segurança da chave privada e o uso do comando SSH para estabelecer a conexão.
