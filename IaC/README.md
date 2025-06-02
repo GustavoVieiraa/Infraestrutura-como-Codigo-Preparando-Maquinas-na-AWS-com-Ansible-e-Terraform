@@ -25,22 +25,17 @@ terraform apply
 
 </ul>
 
-<div>
+<div align="left">
   <h3>Instância na AWS:</h3>
-  <img src="">
+  <img height="320" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/IaC/archives/instanciaTerraform.png">
 </div>
 
-<div>
+<div align="left">
   <h3>IAM User na AWS:</h3>
-  <img src="">
+  <img height="300" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/IaC/archives/terraform%20user.png">
 </div>
 
-<div>
-  <h3>executação comandos Terraform:</h3>
-  <img src="">
-</div>
-
-<div>
+<div align="center">
   <h3>Ferramentas:</h3>
-  <img src="">
+  <img height="400" src="https://raw.githubusercontent.com/GustavoVieiraa/Infraestrutura-como-Codigo-Preparando-Maquinas-na-AWS-com-Ansible-e-Terraform/refs/heads/main/IaC/archives/Ferramentas.png">
 </div>
